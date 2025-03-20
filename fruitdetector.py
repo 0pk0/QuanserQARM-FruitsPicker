@@ -52,7 +52,7 @@ class FruitDetector(Node):
         fruit_types = {
             "tomato": ([0, 100, 100], [10, 255, 255]),  # Red
             "banana": ([20, 100, 100], [30, 255, 255]),  # Yellow
-            "orange": ([10, 100, 100], [20, 255, 255])  # Orange
+            "strawberry": ([10, 100, 100], [20, 255, 255])  # Orange
         }
 
         for fruit, (lower, upper) in fruit_types.items():
