@@ -58,7 +58,7 @@ This repository contains the code, simulation models, and documentation for a mo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fruit-sorting-qarm.git
+git clone [https://github.com/0pk0/fruit-sorting-qarm.git]
 cd fruit-sorting-qarm
 ```
 
