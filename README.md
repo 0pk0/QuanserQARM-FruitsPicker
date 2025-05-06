@@ -135,7 +135,7 @@ python qarm_teleop.py
 ## 📬 Contact
 
 **Reuben Mathew**
-📧 [reubenmathew@uw.edu](mailto:pxk407@student.bham.ac.uk)
+📧 [pxk407@student.ac.uk](mailto:pxk407@student.bham.ac.uk)
 🔗 [LinkedIn](https://www.linkedin.com/praveenkathirvel)
 
 ---
