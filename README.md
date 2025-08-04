@@ -1,7 +1,4 @@
 # QuanserQARM-FruitsPicker
-Here’s a professional and structured **README.md** you can use for your GitHub repository to present your fruit-sorting robotic system project clearly to collaborators, recruiters, or researchers:
-
----
 
 # 🍓🍌 Robotic Fruit Sorting System Using Quanser QArm
 
@@ -135,9 +132,5 @@ python qarm_teleop.py
 ## 📬 Contact
 
 **Praveen Kathirvel**
-📧 [pxk407@student.ac.uk](mailto:pxk407@student.bham.ac.uk)
+📧 [pxk407@student.bham.ac.uk](mailto:pxk407@student.bham.ac.uk)
 🔗 [LinkedIn](https://www.linkedin.com/praveenkathirvel)
-
----
-
-Let me know if you'd like this as a downloadable `.md` file or if you'd like to generate GitHub Pages documentation from it!
