@@ -134,7 +134,7 @@ python qarm_teleop.py
 
 ## 📬 Contact
 
-**Reuben Mathew**
+**Praveen Kathirvel**
 📧 [pxk407@student.ac.uk](mailto:pxk407@student.bham.ac.uk)
 🔗 [LinkedIn](https://www.linkedin.com/praveenkathirvel)
 
